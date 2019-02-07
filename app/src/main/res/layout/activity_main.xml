@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
-<EditText
-    android:id="@+id/edTxt"
-    android:layout_margin="10sp"
-    android:padding="10sp"
-    android:layout_width="match_parent"
-    android:layout_height="100sp"/>
+    <EditText
+        android:id="@+id/edTxt"
+        android:layout_margin="10sp"
+        android:padding="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"/>
     <LinearLayout
         android:layout_marginLeft="10sp"
         android:layout_marginRight="10sp"
@@ -177,5 +177,4 @@
             android:layout_height="wrap_content" />
 
     </LinearLayout>
-
 </LinearLayout>

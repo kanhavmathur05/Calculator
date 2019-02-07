@@ -1,4 +1,4 @@
-package com.example.kanhav.calculator;
+package com.example.admin.calculator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
